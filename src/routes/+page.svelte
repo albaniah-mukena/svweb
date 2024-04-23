@@ -10,7 +10,7 @@
 	<Page404>
 		<svelte:fragment slot="paragraph">
 			<p class="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white md:text-4xl">
-				Maaf ya, kami masih dalam proses pengembangan 🙏🙏😊
+				Maaf ya kak, kami masih dalam proses pengembangan 🙏🙏😊
 			</p>
 		</svelte:fragment>
 	</Page404>
