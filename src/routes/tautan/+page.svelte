@@ -339,7 +339,7 @@
 				</div></a
 			>
 			<a
-				href="https://www.lazada.co.id/shop/al-baniah-mukena"
+				href="https://www.tiktok.com/@albaniah_mukena"
 				class="inline-flex items-center justify-between rounded-full border-2 border-gray-200 bg-white px-3 py-2 text-sm font-semibold tracking-wide text-gray-700 shadow-md hover:border-[#c59c75] disabled:pointer-events-none disabled:opacity-50 md:px-4 md:py-3 md:text-base"
 				><div class="w-full text-center">
 					Tiktok
