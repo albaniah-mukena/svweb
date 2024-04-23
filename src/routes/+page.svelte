@@ -1,15 +1,17 @@
 <script>
-import { Section, Page404 } from "flowbite-svelte-blocks";
-import { Button } from "flowbite-svelte";
+	import { Section, Page404 } from 'flowbite-svelte-blocks';
+	import maintenanceIllustration from '$lib/assets/illustrations/maintenance.png';
 </script>
 
 <Section name="page404">
-  <Page404>
-    <svelte:fragment slot="h1">404</svelte:fragment>
-    <svelte:fragment slot="paragraph">
-      <p class="mb-4 text-3xl tracking-tight font-bold text-gray-900 md:text-4xl dark:text-white">Something's missing.</p>
-      <p class="mb-4 text-lg font-light text-gray-500 dark:text-gray-400">Sorry, we can't find that page. You'll find lots to explore on the home page.</p>
-      <Button href="/" size="lg" color="red">Back to Homepage</Button>
-    </svelte:fragment>
-  </Page404>
+	<div class="flex justify-center">
+		<img alt="The project logo" src={maintenanceIllustration} class="max-w-lg" />
+	</div>
+	<Page404>
+		<svelte:fragment slot="paragraph">
+			<p class="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white md:text-4xl">
+				Maaf ya, kami masih dalam proses pengembangan 🙏🙏😊
+			</p>
+		</svelte:fragment>
+	</Page404>
 </Section>
