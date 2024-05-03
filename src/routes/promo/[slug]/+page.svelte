@@ -9,6 +9,9 @@
 	const mainPhotos = data.mukena[0].mainPhotos;
 </script>
 
+<svelte:head>
+	<title>{data.mukena[0].title}</title>
+</svelte:head>
 <div class="py-4 md:py-10">
 	<Section name="contact">
 		<Contact>
