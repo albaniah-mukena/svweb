@@ -60,7 +60,7 @@
 			<div class="mt-6 space-y-8 text-center">
 				<Heading tag="h3">Yuk, Buruan Diorder!!</Heading>
 				<Heading tag="h5">Mumpung Stoknya Masih Ready 😊</Heading>
-				<Button size="xl">
+				<Button size="xl" href="https://wa.link/h9khg4">
 					<span class="mr-2">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
