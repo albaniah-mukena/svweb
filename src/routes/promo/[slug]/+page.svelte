@@ -62,7 +62,9 @@
 			</div>
 			<div class="mt-6 space-y-8 text-center">
 				<Heading tag="h3">Yuk, Buruan Diorder!!</Heading>
-				<Heading tag="h5">Mumpung Stoknya Masih Ready 😊</Heading>
+				<Heading tag="h5"
+					>Mumpung Stoknya Masih Ready 😊 <br />Pengiriman dari Kawalu, Kota Tasikmalaya ya kak</Heading
+				>
 				<Button size="xl" href="https://wa.link/h9khg4">
 					<span class="mr-2">
 						<svg
