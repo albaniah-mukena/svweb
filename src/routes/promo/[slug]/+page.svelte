@@ -51,7 +51,7 @@
 								{#if colors.isSpecial}
 									<P weight="bold" align="center"
 										>Spesial Harga: <P color="text-red-700" align="center" weight="black"
-											>Rp57.000</P
+											>Rp60.000</P
 										></P
 									>
 								{/if}
